@@ -1,0 +1,38 @@
+## Introducere
+
+În studiul matematicii, conceptul de mulțime este fundamental și servește drept piatră de temelie pentru multe alte ramuri ale acestei științe. Mulțimile ne ajută să clasificăm și să organizăm obiectele în grupuri bazate pe proprietăți comune. În particular, mulțimea numerelor reale este esențială pentru că include toate numerele care pot fi găsite pe axa numerelor și care sunt utilizate în aproape toate domeniile matematicii și aplicarea lor în știință și tehnologie. În această lecție, vom analiza mulțimea numerelor reale și submulțimile sale.
+
+## Fundamente Teoretice
+
+### Mulțimi și Submulțimi
+
+Mulțimile sunt colecții de obiecte bine definite, iar obiectele dintr-o mulțime sunt numite elemente. De exemplu, mulțimea numerelor naturale `{0, 1, 2, 3, ...}` conține toate numerele întregi pozitive și zero, fiecare număr fiind un element al acestei mulțimi. O submulțime este o colecție de elemente care sunt toate conținute într-o altă mulțime; de exemplu, setul numerelor pare este o submulțime a numerelor naturale.
+
+### Mulțimea Numerelor Reale (ℝ)
+
+Mulțimea numerelor reale include toate numerele rationale (raportul dintre două numere întregi) și irationale (numere care nu pot fi exprimate ca raportul a două numere întregi, cu zecimale infinite neperiodice, precum √2 sau π). Aceasta mulțime este notată cu simbolul ℝ și este fundamentală în analiza matematică și în multe alte domenii ale matematicii.
+
+#### Submulțimile Numerelor Reale
+
+Numerelor reale pot fi împărțite în mai multe submulțimi importante, printre care:
+
+- Numerele naturale (ℕ): `{0, 1, 2, 3, ...}`
+- Numerele întregi (ℤ): `{..., -3, -2, -1, 0, 1, 2, 3, ...}`
+- Numerele rationale (ℚ): `{p/q | p, q ∈ ℤ, q ≠ 0}`
+- Numerele irationale: numere care nu sunt rationale, de exemplu rădăcini sau π.
+
+## Exemplificare
+
+Un exemplu de număr real ar fi -3.5, care este și un număr rational deoarece poate fi exprimat ca -7/2. Un exemplu de număr irational ar fi √3, care nu poate fi exprimat ca un raport exact între două numere întregi și a cărui dezvoltare zecimală este infinită și neperiodică.
+
+## Aplicații Practice
+
+Mulțimea numerelor reale este folosită în multe domenii. De exemplu:
+
+- În fizică, distanțele, vitezele, masele și alte măsurători sunt adesea reprezentate folosind numere reale.
+- În economie, niveluri de prețuri și rate de schimb sunt modele în termeni de numere reale.
+- În inginerie, dimensiunile și toleranțele pentru componentele fabricate sunt descrise cu ajutorul numerelor reale.
+
+## Concluzii
+
+Mulțimea numerelor reale este esențială pentru înțelegerea lumii și pentru aplicarea cunoștințelor matematice în practică. Prin explorarea proprietăților și aplicațiilor sale, putem obține o perspectivă mai profundă a modului în care matematica modelează și influențează mediul înconjurător. Mulțimile și submulțimile lor constituie baza sistemelor numerice și sunt critice pentru avansarea în domeniul matematicii și în științele aplicate.

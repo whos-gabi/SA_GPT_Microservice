@@ -1,0 +1,60 @@
+{
+    "lesson": {
+        "title": "string",
+        "description": "string",
+        "subject": "Subject",
+        "grade": "Grade['grade']",
+        "type": "LessonType['key']",
+        "date": "Date",
+        "cdn": "string",
+        "filename": "string"
+    },
+    "Subject": {
+        "title": "string",
+        "key": "string"
+    },
+    "Grade": {
+        "title": "string",
+        "grade": "number"
+    },
+    "LessonType": {
+        "title": "string",
+        "key": "string"
+    },
+    "GRADES": [
+        {
+            "grade": 9,
+            "title": "Clasa a 9-a"
+        },
+        {
+            "grade": 10,
+            "title": "Clasa a 10-a"
+        },
+        {
+            "grade": 11,
+            "title": "Clasa a 11-a"
+        },
+        {
+            "grade": 12,
+            "title": "Clasa a 12-a"
+        }
+    ],
+    "LESSON_TYPE": [
+        {
+            "title": "Teorie",
+            "key": "theory"
+        },
+        {
+            "title": "Memoratoare",
+            "key": "memorandums"
+        },
+        {
+            "title": "Manuale",
+            "key": "manuals"
+        },
+        {
+            "title": "Teste",
+            "key": "tests"
+        }
+    ]
+}

@@ -1,0 +1,452 @@
+{
+    "title": "Matematică",
+    "title_key": "math",
+    "categories_data": [
+        "Mulțimi și elemente de logică matematică",
+        "Șiruri",
+        "Funcții și lecturi grafice",
+        "Funcția de gradul I",
+        "Funcția de gradul al II-lea. Interpretarea geometrică a proprietăților funcției de gradul al doilea",
+        "Vectori în plan",
+        "Coliniaritate, concurenţă, paralelism - calcul vectorial în geometria plană",
+        "Trigonometrie şi aplicaţii ale trigonometriei în geometrie"
+    ],
+    "chapters": [
+        {
+            "title": "Mulțimi și elemente de logică matematică",
+            "topics": [
+                {
+                    "number": 1,
+                    "content": "Mulțimea numerelor reale M2 M3"
+                },
+                {
+                    "number": 2,
+                    "content": "Ordonarea numerelor reale. Modulul unui număr real M2 M3"
+                },
+                {
+                    "number": 3,
+                    "content": "Aproximări prin lipsă și adaos ale unui număr real M2 M3"
+                },
+                {
+                    "number": 4,
+                    "content": "Operații cu numere reale M2 M3"
+                },
+                {
+                    "number": 5,
+                    "content": "Operații cu numere reale. Aplicații M2 M3"
+                },
+                {
+                    "number": 6,
+                    "content": "Compararea puterilor de numere reale M2 M3"
+                },
+                {
+                    "number": 7,
+                    "content": "Radicali din numere reale pozitive M2 M3"
+                },
+                {
+                    "number": 8,
+                    "content": "Intervale. Operații cu intervale M2 M3"
+                },
+                {
+                    "number": 9,
+                    "content": "Elemente de logică matematică. Propoziții. Predicat. Cuantificatori M2 M3"
+                },
+                {
+                    "number": 10,
+                    "content": "Conectorii logici NON, ȘI, SAU. M2 M3"
+                },
+                {
+                    "number": 11,
+                    "content": "Implicația și echivalența logică M2 M3"
+                },
+                {
+                    "number": 12,
+                    "content": "Operații logice M2 M3"
+                },
+                {
+                    "number": 13,
+                    "content": "Inducția matematică M2"
+                },
+                {
+                    "number": 14,
+                    "content": "Inducția matematică. Exerciții M2"
+                }
+            ]
+        },
+        {
+            "title": "Șiruri",
+            "topics": [
+                {
+                    "number": 15,
+                    "content": "Șiruri M2+M3"
+                },
+                {
+                    "number": 16,
+                    "content": "Progresii aritmetice"
+                },
+                {
+                    "number": 17,
+                    "content": "Proprietățile progresiei aritmetice. Partea I"
+                },
+                {
+                    "number": 18,
+                    "content": "Proprietățile progresiei aritmetice. Partea II"
+                },
+                {
+                    "number": 19,
+                    "content": "Progresii geometrice M2+M3"
+                },
+                {
+                    "number": 20,
+                    "content": "Progresii geometrice. Exerciții"
+                }
+            ]
+        },
+        {
+            "title": "Funcții și lecturi grafice",
+            "topics": [
+                {
+                    "number": 21,
+                    "content": "Reper cartezian. Produs cartezian"
+                },
+                {
+                    "number": 22,
+                    "content": "Produsul cartezian. Drepte orizontale și verticale în plan"
+                },
+                {
+                    "number": 23,
+                    "content": "Funcţia. Definiţie. Exemple. Reprezentări"
+                },
+                {
+                    "number": 24,
+                    "content": "Exemple și contraexemple de funcții"
+                },
+                {
+                    "number": 25,
+                    "content": "Egalitatea a două funcţii. Imaginea unei funcţii"
+                },
+                {
+                    "number": 26,
+                    "content": "Graficul unei funcții"
+                },
+                {
+                    "number": 27,
+                    "content": "Intersecții de grafice de funcții"
+                },
+                {
+                    "number": 28,
+                    "content": "Funcții mărginite. Funcții monotone"
+                },
+                {
+                    "number": 29,
+                    "content": "Funcții monotone. Exerciții. Partea I"
+                },
+                {
+                    "number": 30,
+                    "content": "Funcții monotone. Exerciții. Partea II"
+                },
+                {
+                    "number": 31,
+                    "content": "Funcții pare. Funcții impare"
+                },
+                {
+                    "number": 32,
+                    "content": "Funcții periodice"
+                },
+                {
+                    "number": 33,
+                    "content": "Compunerea funcţiilor. Exemple pe funcţii numerice"
+                }
+            ]
+        },
+        {
+            "title": "Funcția de gradul I",
+            "topics": [
+                {
+                    "number": 34,
+                    "content": "Ecuații liniare cu o necunoscută"
+                },
+                {
+                    "number": 35,
+                    "content": "Funcţia de gradul I"
+                },
+                {
+                    "number": 36,
+                    "content": "Funcţia de gradul I. Exerciţii"
+                },
+                {
+                    "number": 37,
+                    "content": "Monotonia și semnul funcţiei de gradul I"
+                },
+                {
+                    "number": 38,
+                    "content": "Inecuaţii de gradul I"
+                },
+                {
+                    "number": 39,
+                    "content": "Inecuaţii de gradul I. Exerciţii"
+                },
+                {
+                    "number": 40,
+                    "content": "Sisteme de inecuaţii de gradul I"
+                },
+                {
+                    "number": 41,
+                    "content": "Ecuații și inecuații cu modul"
+                },
+                {
+                    "number": 42,
+                    "content": "Sisteme de ecuaţii"
+                }
+            ]
+        },
+        {
+            "title": "Funcția de gradul al II-lea. Interpretarea geometrică a proprietăților funcției de gradul al doilea",
+            "topics": [
+                {
+                    "number": 43,
+                    "content": "Ecuaţia de gradul al II-lea"
+                },
+                {
+                    "number": 44,
+                    "content": "Relații între rădăcinile și coeficienții ecuației de gradul al doilea"
+                },
+                {
+                    "number": 45,
+                    "content": "Relații între rădăcinile și coeficienții ecuației de gradul al doilea. Exerciții"
+                },
+                {
+                    "number": 46,
+                    "content": "Descompunerea trinomului în factori de gradul I"
+                },
+                {
+                    "number": 47,
+                    "content": "Funcția de gradul al doilea. Forma canonică. Minim sau maxim."
+                },
+                {
+                    "number": 48,
+                    "content": "Funcția de gradul al doilea. Intervale de monotonie"
+                },
+                {
+                    "number": 49,
+                    "content": "Funcția de gradul al doilea. Forma canonică. Intervale de monotonie. Exerciții"
+                },
+                {
+                    "number": 50,
+                    "content": "Reprezentarea grafică a funcţiei de gradul al II-lea"
+                },
+                {
+                    "number": 51,
+                    "content": "Graficul funcției de gradul al doilea. Exerciții"
+                },
+                {
+                    "number": 52,
+                    "content": "Semnul funcției de gradul al doilea"
+                },
+                {
+                    "number": 53,
+                    "content": "Inecuații de gradul al doilea"
+                },
+                {
+                    "number": 54,
+                    "content": "Inecuaţii de gradul al doilea. Exerciții"
+                },
+                {
+                    "number": 55,
+                    "content": "Inecuații cu parametri. Exerciții"
+                },
+                {
+                    "number": 56,
+                    "content": "Interpretarea geometricǎ a semnului funcției de gradul al doilea"
+                },
+                {
+                    "number": 57,
+                    "content": "Rezolvarea sistemelor simetrice"
+                },
+                {
+                    "number": 58,
+                    "content": "Sisteme simetrice. Exerciții"
+                },
+                {
+                    "number": 59,
+                    "content": "Sisteme formate dintr-o ecuație de gradul întâi și una de gradul al doilea"
+                },
+                {
+                    "number": 60,
+                    "content": "Sisteme formate dintr-o ecuație de gradul întâi și una de gradul al doilea. Exerciții"
+                },
+                {
+                    "number": 61,
+                    "content": "Sisteme omogene"
+                },
+                {
+                    "number": 62,
+                    "content": "Sisteme omogene II"
+                },
+                {
+                    "number": 63,
+                    "content": "Funcția de gradul al doilea. Aplicații"
+                }
+            ]
+        },
+        {
+            "title": "Vectori în plan",
+            "topics": [
+                {
+                    "number": 64,
+                    "content": "Segment orientat"
+                },
+                {
+                    "number": 65,
+                    "content": "Vectori. Regula triunghiului"
+                },
+                {
+                    "number": 66,
+                    "content": "Adunarea vectorilor. Regula paralelogramului"
+                },
+                {
+                    "number": 67,
+                    "content": "Înmulţirea vectorilor cu un număr real"
+                },
+                {
+                    "number": 68,
+                    "content": "Descompunerea unui vector"
+                },
+                {
+                    "number": 69,
+                    "content": "Regula triunghiului și regula paralelogramului. Aplicații"
+                },
+                {
+                    "number": 70,
+                    "content": "Probleme cu vectori"
+                },
+                {
+                    "number": 71,
+                    "content": "Aplicații cu vectori la final de capitol"
+                }
+            ]
+        },
+        {
+            "title": "Coliniaritate, concurenţă",
+            "topics": [
+                {
+                    "number": 72,
+                    "content": "Vectorul de poziţie al unui punct"
+                },
+                {
+                    "number": 73,
+                    "content": "Vectorul de poziţie al punctului care împarte un segment într-un raport dat"
+                },
+                {
+                    "number": 74,
+                    "content": "Teorema lui Thales"
+                },
+                {
+                    "number": 75,
+                    "content": "Vectorul de poziţie al centrului de greutate al unui triunghi. Partea I"
+                },
+                {
+                    "number": 76,
+                    "content": "Vectorul de poziţie al centrului de greutate al unui triunghi. Partea II"
+                }
+            ]
+        },
+        {
+            "title": "Trigonometrie şi aplicaţii ale trigonometriei în geometrie",
+            "topics": [
+                {
+                    "number": 77,
+                    "content": "Rezolvarea triunghiului dreptunghic"
+                },
+                {
+                    "number": 78,
+                    "content": "Rapoarte trigonometrice într-un triunghi dreptunghic. Aplicații"
+                },
+                {
+                    "number": 79,
+                    "content": "Unităţi de măsură pentru unghiuri şi arce"
+                },
+                {
+                    "number": 80,
+                    "content": "Cercul trigonometric"
+                },
+                {
+                    "number": 81,
+                    "content": "Proprietătile funcţiilor sinus şi cosinus"
+                },
+                {
+                    "number": 82,
+                    "content": "Exerciții folosind funcțiile sin, cos, tg, ctg"
+                },
+                {
+                    "number": 83,
+                    "content": "Funcțiile trigonometrice tangentă și cotangentǎ. Partea I"
+                },
+                {
+                    "number": 84,
+                    "content": "Funcțiile trigonometrice tangentă și cotangentǎ. Partea II"
+                },
+                {
+                    "number": 85,
+                    "content": "Proprietătile funcţiilor tangentă şi cotangentă"
+                },
+                {
+                    "number": 86,
+                    "content": "Graficele funcțiilor trigonometrice"
+                },
+                {
+                    "number": 87,
+                    "content": "Reducerea la primul cadran. Formule trigonometrice. Partea I"
+                },
+                {
+                    "number": 88,
+                    "content": "Reducerea la primul cadran. Partea II"
+                },
+                {
+                    "number": 89,
+                    "content": "Formule trigonometrice pentru suma și diferența a două unghiuri. Partea I"
+                },
+                {
+                    "number": 90,
+                    "content": "Formule trigonometrice pentru suma si diferența a douǎ unghiuri. Partea II"
+                },
+                {
+                    "number": 91,
+                    "content": "Egalități trigonometrice. Exerciții"
+                },
+                {
+                    "number": 92,
+                    "content": "Formule pentru substituția universalǎ"
+                },
+                {
+                    "number": 93,
+                    "content": "Transformarea sumelor in produse. Partea I"
+                },
+                {
+                    "number": 94,
+                    "content": "Transformarea sumelor in produse. Partea II"
+                },
+                {
+                    "number": 95,
+                    "content": "Formule pentru aria unui triunghi"
+                },
+                {
+                    "number": 96,
+                    "content": "Teorema sinusurilor"
+                },
+                {
+                    "number": 97,
+                    "content": "Teorema cosinusului"
+                },
+                {
+                    "number": 98,
+                    "content": "Teorema medianei si alte formule de arii"
+                },
+                {
+                    "number": 99,
+                    "content": "Aplicații la final de capitol"
+                }
+            ]
+        }
+    ]
+}

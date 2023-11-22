@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "title": "Matematică",
+            "key": "math"
+        },
+        {
+            "title": "Engleză",
+            "key": "english"
+        },
+        {
+            "title": "Română",
+            "key": "romanian"
+        },
+        {
+            "title": "Informatică",
+            "key": "info"
+        },
+        {
+            "title": "Biologie",
+            "key": "bio"
+        },
+        {
+            "title": "Chimie",
+            "key": "chemistry"
+        },
+        {
+            "title": "Fizica",
+            "key": "physics"
+        },
+        {
+            "title": "Geografie",
+            "key": "geography"
+        },
+        {
+            "title": "Istorie",
+            "key": "history"
+        },
+        {
+            "title": "Logică",
+            "key": "logic"
+        },
+        {
+            "title": "Psihologie",
+            "key": "psyhology"
+        }
+    ]
+}
