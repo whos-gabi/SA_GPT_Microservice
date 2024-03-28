@@ -46,7 +46,7 @@ def generate_response(chapter, topic):
 
 def main():
     #get all the subject plans from the json 
-    with open("subjects_plans/math.json", "r") as file:
+    with open("subjects_plans/math-old.json", "r") as file:
         math_data = json.load(file)
 
 

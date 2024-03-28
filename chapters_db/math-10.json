@@ -1,0 +1,577 @@
+{
+    "course": {
+        "name": "Matematică",
+        "slug": "math",
+        "grade": 10,
+        "chapters": [
+            {
+                "name": "Mulțimi de numere",
+                "topics": [
+                    {
+                        "number": 1,
+                        "content": "Radicalul de ordin n M2 M3"
+                    },
+                    {
+                        "number": 2,
+                        "content": "Radicalul impar din numere negative M2 M3"
+                    },
+                    {
+                        "number": 3,
+                        "content": "Proprietăți ale radicalilor M2 M3"
+                    },
+                    {
+                        "number": 4,
+                        "content": "Aproximări raționale ale radicalilor de ordin n. M2 M3"
+                    },
+                    {
+                        "number": 5,
+                        "content": "Radicali. Raționalizarea numitorilor M2 M3"
+                    },
+                    {
+                        "number": 6,
+                        "content": "Radicali de ordin n. Exerciții M2 M3"
+                    },
+                    {
+                        "number": 7,
+                        "content": "Puteri cu exponent negativ și rațional M2 M3"
+                    },
+                    {
+                        "number": 8,
+                        "content": "Puteri cu exponent real M2 M3"
+                    },
+                    {
+                        "number": 9,
+                        "content": "Exponenți reali. Exerciții M2 M3"
+                    },
+                    {
+                        "number": 10,
+                        "content": "Logaritmi din numere reale pozitive M2 M3"
+                    },
+                    {
+                        "number": 11,
+                        "content": "Proprietatile logaritmilor M2+M3"
+                    },
+                    {
+                        "number": 12,
+                        "content": "Schimbarea bazei unui logaritm M2+M3"
+                    },
+                    {
+                        "number": 13,
+                        "content": "Logaritmarea unei expresii M2 M3"
+                    },
+                    {
+                        "number": 14,
+                        "content": "Logaritmi. Exerciții M2 M3"
+                    },
+                    {
+                        "number": 15,
+                        "content": "Numerele complexe. Forma algebrica M2"
+                    },
+                    {
+                        "number": 16,
+                        "content": "Operatii algebrice cu numere complexe M2"
+                    },
+                    {
+                        "number": 17,
+                        "content": "Conjugatul unui numar complex M2"
+                    },
+                    {
+                        "number": 18,
+                        "content": "Modulul unui număr complex M2"
+                    },
+                    {
+                        "number": 19,
+                        "content": "Interpretarea geometrica a numerelor complexe M2"
+                    },
+                    {
+                        "number": 20,
+                        "content": "Operații cu numere complexe. Interpretarea geometrică M2"
+                    },
+                    {
+                        "number": 21,
+                        "content": "Numere complexe. Aplicații M2"
+                    },
+                    {
+                        "number": 22,
+                        "content": "Rezolvarea în C a ecuațiilor de gradul doi cu coeficienți reali M2"
+                    },
+                    {
+                        "number": 23,
+                        "content": "Ecuatii bipatrate M2"
+                    }
+                ],
+                "weeks_interval": "1-9"
+            },
+            {
+                "name": "Funcții și ecuații",
+                "topics": [
+                    {
+                        "number": 24,
+                        "content": "Recapitulare funcții M2 M3"
+                    },
+                    {
+                        "number": 25,
+                        "content": "Analizarea unui grafic de funcție. Partea I. M2 M3"
+                    },
+                    {
+                        "number": 26,
+                        "content": "Analizarea unui grafic de funcție. Partea II. M2 M3"
+                    },
+                    {
+                        "number": 27,
+                        "content": "Analizarea unui grafic de funcție. Aplicații M2 M3"
+                    },
+                    {
+                        "number": 28,
+                        "content": "Funcții injective M2"
+                    },
+                    {
+                        "number": 29,
+                        "content": "Funcții surjective M2"
+                    },
+                    {
+                        "number": 30,
+                        "content": "Funcții bijective M2"
+                    },
+                    {
+                        "number": 31,
+                        "content": "Funcții injective, surjective, bijective. Recapitulare M2"
+                    },
+                    {
+                        "number": 32,
+                        "content": "Funcții injective, surjective, bijective. Aplicații M2"
+                    },
+                    {
+                        "number": 33,
+                        "content": "Inversa unei funcții M2"
+                    },
+                    {
+                        "number": 34,
+                        "content": "Inversa unei funcții. Exerciții M2"
+                    },
+                    {
+                        "number": 35,
+                        "content": "Funcția putere cu exponent natural M2 M3"
+                    },
+                    {
+                        "number": 36,
+                        "content": "Funcția radical de ordin n M2 M3"
+                    },
+                    {
+                        "number": 37,
+                        "content": "Ecuații iraționale ce conțin radicali M2 M3"
+                    },
+                    {
+                        "number": 38,
+                        "content": "Ecuații iraționale cu mai mulți radicali M2M3"
+                    },
+                    {
+                        "number": 39,
+                        "content": "Funcția exponențială M2 M3"
+                    },
+                    {
+                        "number": 40,
+                        "content": "Ecuații exponențiale. Partea I M2 M3"
+                    },
+                    {
+                        "number": 41,
+                        "content": "Ecuații exponențiale. Partea II M2 M3"
+                    },
+                    {
+                        "number": 42,
+                        "content": "Funcția logaritmică M2 M3"
+                    },
+                    {
+                        "number": 43,
+                        "content": "Ecuații logaritmice. Partea I M2 M3"
+                    },
+                    {
+                        "number": 44,
+                        "content": "Ecuații logaritmice. Partea II M2 M3"
+                    },
+                    {
+                        "number": 45,
+                        "content": "Creșterea exponențială M2 M3"
+                    },
+                    {
+                        "number": 46,
+                        "content": "Descreșterea exponențială M2M3"
+                    },
+                    {
+                        "number": 47,
+                        "content": "Creștere și descreștere logaritmică M2 M3"
+                    },
+                    {
+                        "number": 48,
+                        "content": "Funcții trigonometrice. Introducere M2"
+                    },
+                    {
+                        "number": 49,
+                        "content": "Funcțiile sinus și arcsinus M2"
+                    },
+                    {
+                        "number": 50,
+                        "content": "Funcțiile cosinus și arccosinus M2"
+                    },
+                    {
+                        "number": 51,
+                        "content": "Funcțiile tangentă și arctangentă M2"
+                    },
+                    {
+                        "number": 52,
+                        "content": "Funcțiile cotangentă și arccotangentă M2"
+                    },
+                    {
+                        "number": 53,
+                        "content": "Valori trigonometrice importante M2"
+                    },
+                    {
+                        "number": 54,
+                        "content": "Valori trigonometrice inverse M2"
+                    },
+                    {
+                        "number": 55,
+                        "content": "Funcții trigonometrice inverse. Exerciții. Partea I M2"
+                    },
+                    {
+                        "number": 56,
+                        "content": "Funcții trigonometrice inverse. Exerciții. Partea II M2"
+                    },
+                    {
+                        "number": 57,
+                        "content": "Ecuații trigonometrice. Partea I M2"
+                    },
+                    {
+                        "number": 58,
+                        "content": "Ecuații trigonometrice. Partea II M2"
+                    }
+                ],
+                "weeks_interval": "10-18"
+            },
+            {
+                "name": "Funcții și ecuații",
+                "topics": [
+                    {
+                        "number": 24,
+                        "content": "Recapitulare funcții M2 M3"
+                    },
+                    {
+                        "number": 25,
+                        "content": "Analizarea unui grafic de funcție. Partea I. M2 M3"
+                    },
+                    {
+                        "number": 26,
+                        "content": "Analizarea unui grafic de funcție. Partea II. M2 M3"
+                    },
+                    {
+                        "number": 27,
+                        "content": "Analizarea unui grafic de funcție. Aplicații M2 M3"
+                    },
+                    {
+                        "number": 28,
+                        "content": "Funcții injective M2"
+                    },
+                    {
+                        "number": 29,
+                        "content": "Funcții surjective M2"
+                    },
+                    {
+                        "number": 30,
+                        "content": "Funcții bijective M2"
+                    },
+                    {
+                        "number": 31,
+                        "content": "Funcții injective, surjective, bijective. Recapitulare M2"
+                    },
+                    {
+                        "number": 32,
+                        "content": "Funcții injective, surjective, bijective. Aplicații M2"
+                    },
+                    {
+                        "number": 33,
+                        "content": "Inversa unei funcții M2"
+                    },
+                    {
+                        "number": 34,
+                        "content": "Inversa unei funcții. Exerciții M2"
+                    },
+                    {
+                        "number": 35,
+                        "content": "Funcția putere cu exponent natural M2 M3"
+                    },
+                    {
+                        "number": 36,
+                        "content": "Funcția radical de ordin n M2 M3"
+                    },
+                    {
+                        "number": 37,
+                        "content": "Ecuații iraționale ce conțin radicali M2 M3"
+                    },
+                    {
+                        "number": 38,
+                        "content": "Ecuații iraționale cu mai mulți radicali M2M3"
+                    },
+                    {
+                        "number": 39,
+                        "content": "Funcția exponențială M2 M3"
+                    },
+                    {
+                        "number": 40,
+                        "content": "Ecuații exponențiale. Partea I M2 M3"
+                    },
+                    {
+                        "number": 41,
+                        "content": "Ecuații exponențiale. Partea II M2 M3"
+                    },
+                    {
+                        "number": 42,
+                        "content": "Funcția logaritmică M2 M3"
+                    },
+                    {
+                        "number": 43,
+                        "content": "Ecuații logaritmice. Partea I M2 M3"
+                    },
+                    {
+                        "number": 44,
+                        "content": "Ecuații logaritmice. Partea II M2 M3"
+                    },
+                    {
+                        "number": 45,
+                        "content": "Creșterea exponențială M2 M3"
+                    },
+                    {
+                        "number": 46,
+                        "content": "Descreșterea exponențială M2M3"
+                    },
+                    {
+                        "number": 47,
+                        "content": "Creștere și descreștere logaritmică M2 M3"
+                    },
+                    {
+                        "number": 48,
+                        "content": "Funcții trigonometrice. Introducere M2"
+                    },
+                    {
+                        "number": 49,
+                        "content": "Funcțiile sinus și arcsinus M2"
+                    },
+                    {
+                        "number": 50,
+                        "content": "Funcțiile cosinus și arccosinus M2"
+                    },
+                    {
+                        "number": 51,
+                        "content": "Funcțiile tangentă și arctangentă M2"
+                    },
+                    {
+                        "number": 52,
+                        "content": "Funcțiile cotangentă și arccotangentă M2"
+                    },
+                    {
+                        "number": 53,
+                        "content": "Valori trigonometrice importante M2"
+                    },
+                    {
+                        "number": 54,
+                        "content": "Valori trigonometrice inverse M2"
+                    },
+                    {
+                        "number": 55,
+                        "content": "Funcții trigonometrice inverse. Exerciții. Partea I M2"
+                    },
+                    {
+                        "number": 56,
+                        "content": "Funcții trigonometrice inverse. Exerciții. Partea II M2"
+                    },
+                    {
+                        "number": 57,
+                        "content": "Ecuații trigonometrice. Partea I M2"
+                    },
+                    {
+                        "number": 58,
+                        "content": "Ecuații trigonometrice. Partea II M2"
+                    }
+                ],
+                "weeks_interval": "10-18"
+            },
+            {
+                "name": "Metode de numărare",
+                "topics": [
+                    {
+                        "number": 59,
+                        "content": "Metoda inducției matematice M2"
+                    },
+                    {
+                        "number": 60,
+                        "content": "Numărul de funcții M2"
+                    },
+                    {
+                        "number": 61,
+                        "content": "Mulțimi ordonate. Permutări M2M3"
+                    },
+                    {
+                        "number": 62,
+                        "content": "Exerciții cu factoriali M2M3"
+                    },
+                    {
+                        "number": 63,
+                        "content": "Permutări. Aplicații M2M3"
+                    },
+                    {
+                        "number": 64,
+                        "content": "Aranjamente și combinări M2M3"
+                    },
+                    {
+                        "number": 65,
+                        "content": "Aranjamente. Aplicații M2M3"
+                    },
+                    {
+                        "number": 66,
+                        "content": "Combinări. Aplicații M2M3"
+                    },
+                    {
+                        "number": 67,
+                        "content": "Proprietățile combinărilor M2"
+                    },
+                    {
+                        "number": 68,
+                        "content": "Probleme de numărare M2M3"
+                    },
+                    {
+                        "number": 69,
+                        "content": "Binomul lui Newton M2"
+                    },
+                    {
+                        "number": 70,
+                        "content": "Binomul lui Newton. Aplicații M2"
+                    },
+                    {
+                        "number": 71,
+                        "content": "Metode de numărare. Aplicații de sinteză M2M3"
+                    }
+                ],
+                "weeks_interval": "19-27"
+            },
+            {
+                "name": "Matematici financiare",
+                "topics": [
+                    {
+                        "number": 72,
+                        "content": "Procente M2 M3"
+                    },
+                    {
+                        "number": 73,
+                        "content": "Scumpiri și ieftiniri M2 M3"
+                    },
+                    {
+                        "number": 74,
+                        "content": "Dobânda simplă. Dobânda compusă M2 M3"
+                    },
+                    {
+                        "number": 75,
+                        "content": "Constituirea de capital. Amortizarea unei datorii M2M3"
+                    },
+                    {
+                        "number": 76,
+                        "content": "Taxa pe Valoare Adăugată (T.V.A.) M2 M3"
+                    },
+                    {
+                        "number": 77,
+                        "content": "Cost de producție și profit M2 M3"
+                    },
+                    {
+                        "number": 78,
+                        "content": "Culegerea și clasificarea datelor statistice M2 M3"
+                    },
+                    {
+                        "number": 79,
+                        "content": "Prelucrarea și reprezentarea datelor statistice M2 M3"
+                    },
+                    {
+                        "number": 80,
+                        "content": "Parametri de poziție: medii, dispersie, abateri M2 M3"
+                    },
+                    {
+                        "number": 81,
+                        "content": "Probabilități. Evenimente egal probabile M2 M3"
+                    },
+                    {
+                        "number": 82,
+                        "content": "Probabilități. Aplicații M2 M3"
+                    },
+                    {
+                        "number": 83,
+                        "content": "Variabile aleatoare M2"
+                    }
+                ],
+                "weeks_interval": "28-36"
+            },
+            {
+                "name": "Geometrie",
+                "topics": [
+                    {
+                        "number": 84,
+                        "content": "Distanța dintre două puncte în plan M2 M3"
+                    },
+                    {
+                        "number": 85,
+                        "content": "Ecuația explicită a unei drepte M2 M3"
+                    },
+                    {
+                        "number": 86,
+                        "content": "Ecuația unei drepte determinate de un punct și o direcție M2M3"
+                    },
+                    {
+                        "number": 87,
+                        "content": "Ecuația unei drepte determinate de două puncte M2 M3"
+                    },
+                    {
+                        "number": 88,
+                        "content": "Condiția de paralelism a două drepte M2 M3"
+                    },
+                    {
+                        "number": 89,
+                        "content": "Condiția de perpendicularitate a două drepte M2 M3"
+                    },
+                    {
+                        "number": 90,
+                        "content": "Ecuația dreptei. Aplicații M2 M3"
+                    },
+                    {
+                        "number": 91,
+                        "content": "Intersecția a două drepte în plan M2 M3"
+                    },
+                    {
+                        "number": 92,
+                        "content": "Distanțe în plan M2 M3"
+                    },
+                    {
+                        "number": 93,
+                        "content": "Arii în plan M2 M3"
+                    },
+                    {
+                        "number": 94,
+                        "content": "Vectori de poziție. Operații M2 M3"
+                    },
+                    {
+                        "number": 95,
+                        "content": "Vectori în plan M2 M3"
+                    },
+                    {
+                        "number": 96,
+                        "content": "Vectori. Aplicații M2M3"
+                    },
+                    {
+                        "number": 97,
+                        "content": "Geometrie. Aplicații de Sinteză. Partea I M2 M3"
+                    },
+                    {
+                        "number": 98,
+                        "content": "Geometrie. Aplicații de Sinteză. Partea II M2 M3"
+                    }
+                ],
+                "weeks_interval": "37-45"
+            }
+        ]
+    }
+}

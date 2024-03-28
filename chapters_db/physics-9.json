@@ -1,0 +1,8 @@
+{
+    "course": {
+        "name": "Fizica",
+        "slug": "physics",
+        "grade": 9,
+        "chapters": []
+    }
+}

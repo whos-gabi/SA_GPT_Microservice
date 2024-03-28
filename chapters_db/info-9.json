@@ -1,0 +1,8 @@
+{
+    "course": {
+        "name": "Informatică",
+        "slug": "info",
+        "grade": 9,
+        "chapters": []
+    }
+}

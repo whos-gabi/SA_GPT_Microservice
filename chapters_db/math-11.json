@@ -1,0 +1,517 @@
+{
+    "course": {
+        "name": "Matematică",
+        "slug": "math",
+        "grade": 11,
+        "chapters": [
+            {
+                "name": "Matrice",
+                "topics": [
+                    {
+                        "number": 1,
+                        "content": "Matrice M2"
+                    },
+                    {
+                        "number": 2,
+                        "content": "Matrice. Aplicații M2"
+                    },
+                    {
+                        "number": 3,
+                        "content": "Adunarea și scăderea matricelor M2"
+                    },
+                    {
+                        "number": 4,
+                        "content": "Transpusa unei matrice. Înmulțirea unei matrice cu un scalar M2"
+                    },
+                    {
+                        "number": 5,
+                        "content": "Înmultirea matricelor M2"
+                    },
+                    {
+                        "number": 6,
+                        "content": "Proprietăți ale înmulțirii matricelor. Partea I. M2"
+                    },
+                    {
+                        "number": 7,
+                        "content": "Proprietăți ale înmulțirii matricelor. Partea II. M2"
+                    },
+                    {
+                        "number": 8,
+                        "content": "Ridicarea la putere a matricelor pătratice M2"
+                    },
+                    {
+                        "number": 9,
+                        "content": "Matrice. Exerciții recapitulative. Partea I"
+                    },
+                    {
+                        "number": 10,
+                        "content": "Matrice. Exerciții recapitulative. Partea II"
+                    }
+                ],
+                "weeks_interval": "1-9"
+            },
+            {
+                "name": "Determinanţi",
+                "topics": [
+                    {
+                        "number": 11,
+                        "content": "Determinanți de ordin 2 M2"
+                    },
+                    {
+                        "number": 12,
+                        "content": "Determinanți de ordin 3 M2"
+                    },
+                    {
+                        "number": 13,
+                        "content": "Regula triunghiurilor. Relația Hamilton-Cayley M2"
+                    },
+                    {
+                        "number": 14,
+                        "content": "Minorul unui element dintr-o matrice M2"
+                    },
+                    {
+                        "number": 15,
+                        "content": "Regula minorilor M2"
+                    },
+                    {
+                        "number": 16,
+                        "content": "Ecuația dreptei determinate de două puncte"
+                    },
+                    {
+                        "number": 17,
+                        "content": "Aplicații la ecuația dreptei. Partea I"
+                    },
+                    {
+                        "number": 18,
+                        "content": "Aplicații la ecuația dreptei. Partea II"
+                    },
+                    {
+                        "number": 19,
+                        "content": "Coliniaritatea a trei puncte în plan M2"
+                    },
+                    {
+                        "number": 20,
+                        "content": "Aplicații ale determinanților în geometrie. Aplicații combinate"
+                    },
+                    {
+                        "number": 21,
+                        "content": "Proprietățile determinanților. Partea I M2"
+                    },
+                    {
+                        "number": 22,
+                        "content": "Proprietățile determinanților. Partea II M2"
+                    },
+                    {
+                        "number": 23,
+                        "content": "Proprietățile determinanților. Partea III"
+                    },
+                    {
+                        "number": 24,
+                        "content": "Determinanți. Aplicații. Partea I"
+                    },
+                    {
+                        "number": 25,
+                        "content": "Determinanți. Aplicații. Partea II"
+                    },
+                    {
+                        "number": 26,
+                        "content": "Aria unui triunghi"
+                    },
+                    {
+                        "number": 27,
+                        "content": "Aria triunghiului. Aplicații"
+                    }
+                ],
+                "weeks_interval": "10-18"
+            },
+            {
+                "name": "Sisteme de ecuaţii liniare",
+                "topics": [
+                    {
+                        "number": 28,
+                        "content": "Distanța de la un punct la o dreaptă"
+                    },
+                    {
+                        "number": 29,
+                        "content": "Inversa unei matrice. Semnificație"
+                    },
+                    {
+                        "number": 30,
+                        "content": "Inversa unei matrice."
+                    },
+                    {
+                        "number": 31,
+                        "content": "Determinarea inversei unei matrice"
+                    },
+                    {
+                        "number": 32,
+                        "content": "Ecuații matriceale. Partea I"
+                    },
+                    {
+                        "number": 33,
+                        "content": "Ecuații matriceale. Partea II"
+                    },
+                    {
+                        "number": 34,
+                        "content": "Ecuații matriceale. Partea III"
+                    },
+                    {
+                        "number": 35,
+                        "content": "Ecuații matriceale. Partea IV"
+                    },
+                    {
+                        "number": 36,
+                        "content": "Sisteme de ecuații liniare"
+                    },
+                    {
+                        "number": 37,
+                        "content": "Metoda matriceală de rezolvare a sistemelor"
+                    },
+                    {
+                        "number": 38,
+                        "content": "Sisteme liniare cu metoda matriceală. Aplicații. Partea I"
+                    },
+                    {
+                        "number": 39,
+                        "content": "Sisteme liniare cu metoda matriceală. Aplicații. Partea II"
+                    },
+                    {
+                        "number": 40,
+                        "content": "Metoda lui Cramer"
+                    },
+                    {
+                        "number": 41,
+                        "content": "Metoda lui Cramer. Aplicații. Partea I"
+                    },
+                    {
+                        "number": 42,
+                        "content": "Metoda lui Cramer. Aplicații. Partea II"
+                    },
+                    {
+                        "number": 43,
+                        "content": "Metoda lui Gauss"
+                    },
+                    {
+                        "number": 44,
+                        "content": "Metoda lui Gauss. Aplicații. Partea I"
+                    },
+                    {
+                        "number": 45,
+                        "content": "Metoda lui Gauss. Aplicații. Partea II"
+                    }
+                ],
+                "weeks_interval": "19-27"
+            },
+            {
+                "name": "Analiză",
+                "topics": [
+                    {
+                        "number": 46,
+                        "content": "Mulțimi de puncte pe dreapta reală M2"
+                    },
+                    {
+                        "number": 47,
+                        "content": "Ordinea numerelor reale. Intervale de numere reale M2"
+                    },
+                    {
+                        "number": 48,
+                        "content": "Mulțimi mărginite M2"
+                    },
+                    {
+                        "number": 49,
+                        "content": "Vecinătăți M2"
+                    },
+                    {
+                        "number": 50,
+                        "content": "Limita funcției într-un punct M2"
+                    },
+                    {
+                        "number": 51,
+                        "content": "Calculul limitelor prin trecere directă la limită M2"
+                    },
+                    {
+                        "number": 52,
+                        "content": "Limite laterale M2"
+                    },
+                    {
+                        "number": 53,
+                        "content": "Limite laterale. Aplicații M2"
+                    },
+                    {
+                        "number": 54,
+                        "content": "Operații cu limite de funcții"
+                    },
+                    {
+                        "number": 55,
+                        "content": "Limite de funcții. Metode de nedeterminare M2. Partea I"
+                    },
+                    {
+                        "number": 56,
+                        "content": "Limite de funcții. Metode de nedeterminare M2. Partea II"
+                    },
+                    {
+                        "number": 57,
+                        "content": "Limitele funcțiilor iraționale. Cazuri de nedeterminare"
+                    },
+                    {
+                        "number": 58,
+                        "content": "Limite fundamentale ale funcțiilor trigonometrice"
+                    },
+                    {
+                        "number": 59,
+                        "content": "Limitele fundamentale ale funcțiilor trigonometrice. Aplicații"
+                    },
+                    {
+                        "number": 60,
+                        "content": "Limitele fundamentale ale funcțiilor trigonometrice inverse"
+                    },
+                    {
+                        "number": 61,
+                        "content": "Limite cazuri de nedeterminare (1 la infinit)"
+                    },
+                    {
+                        "number": 62,
+                        "content": "Limite cazuri de nedeterminare (1 la infinit). Aplicații"
+                    },
+                    {
+                        "number": 63,
+                        "content": "Asimptote orizontale"
+                    },
+                    {
+                        "number": 64,
+                        "content": "Asimptote verticale"
+                    },
+                    {
+                        "number": 65,
+                        "content": "Asimptote oblice"
+                    },
+                    {
+                        "number": 66,
+                        "content": "Asimptote. Exerciții"
+                    },
+                    {
+                        "number": 67,
+                        "content": "Funcții continue într-un punct"
+                    },
+                    {
+                        "number": 68,
+                        "content": "Funcții continue. Aplicații"
+                    },
+                    {
+                        "number": 69,
+                        "content": "Puncte de discontinuitate"
+                    },
+                    {
+                        "number": 70,
+                        "content": "Operații cu funcții continue"
+                    },
+                    {
+                        "number": 71,
+                        "content": "Operații cu funcții continue. Exerciții"
+                    },
+                    {
+                        "number": 72,
+                        "content": "Continuitatea funcțiilor compuse"
+                    },
+                    {
+                        "number": 73,
+                        "content": "Proprietatea lui Darboux"
+                    },
+                    {
+                        "number": 74,
+                        "content": "Proprietatea lui Darboux. Aplicații"
+                    },
+                    {
+                        "number": 75,
+                        "content": "Semnul funcției continue pe un interval"
+                    },
+                    {
+                        "number": 76,
+                        "content": "Semnul unei funcții pe un interval. Proprietatea lui Darboux"
+                    },
+                    {
+                        "number": 77,
+                        "content": "Consecințe ale proprietății lui Darboux"
+                    },
+                    {
+                        "number": 78,
+                        "content": "Rezolvarea inecuațiilor folosind continuitatea funcțiilor"
+                    },
+                    {
+                        "number": 79,
+                        "content": "Funcții care admit derivată"
+                    },
+                    {
+                        "number": 80,
+                        "content": "Derivate laterale"
+                    },
+                    {
+                        "number": 81,
+                        "content": "Derivata funcției într-un punct. Aplicații. Partea I"
+                    },
+                    {
+                        "number": 82,
+                        "content": "Derivata funcției într-un punct. Aplicații. Partea II"
+                    },
+                    {
+                        "number": 83,
+                        "content": "Derivabilitate și continuitate"
+                    },
+                    {
+                        "number": 84,
+                        "content": "Ecuația tangentei într-un punct"
+                    },
+                    {
+                        "number": 85,
+                        "content": "Punct unghiular"
+                    },
+                    {
+                        "number": 86,
+                        "content": "Punct de întoarcere"
+                    },
+                    {
+                        "number": 87,
+                        "content": "Derivatele funcțiilor elementare. Partea I"
+                    },
+                    {
+                        "number": 88,
+                        "content": "Derivatele funcțiilor elementare. Partea II"
+                    },
+                    {
+                        "number": 89,
+                        "content": "Derivatele funcțiilor elementare. Partea III"
+                    },
+                    {
+                        "number": 90,
+                        "content": "Derivatele funcțiilor elementare. Aplicații"
+                    },
+                    {
+                        "number": 91,
+                        "content": "Operații cu funcții derivabile. Аplicații"
+                    },
+                    {
+                        "number": 92,
+                        "content": "Derivarea unui produs. Aplicații"
+                    },
+                    {
+                        "number": 93,
+                        "content": "Derivarea unui cât"
+                    },
+                    {
+                        "number": 94,
+                        "content": "Derivarea funcțiilor elementare și a funcțiilor compuse"
+                    },
+                    {
+                        "number": 95,
+                        "content": "Derivarea funcțiilor compuse. Aplicații. Partea I"
+                    },
+                    {
+                        "number": 96,
+                        "content": "Derivarea funcțiilor compuse. Aplicații. Partea II"
+                    },
+                    {
+                        "number": 97,
+                        "content": "Derivarea funcțiilor compuse (funcții trigonometrice inverse)"
+                    },
+                    {
+                        "number": 98,
+                        "content": "Derivata de ordinul al doilea"
+                    },
+                    {
+                        "number": 99,
+                        "content": "Derivata de ordinul al doilea. Aplicații"
+                    },
+                    {
+                        "number": 100,
+                        "content": "Regula lui l'Hôspital (0/0)"
+                    },
+                    {
+                        "number": 101,
+                        "content": "Regula lui l'Hôspital (0/0). Aplicații. Partea I"
+                    },
+                    {
+                        "number": 102,
+                        "content": "Regula lui l'Hôspital (0/0). Aplicații. Partea II"
+                    },
+                    {
+                        "number": 103,
+                        "content": "Regula lui l'Hôspital (infinit/infinit)"
+                    },
+                    {
+                        "number": 104,
+                        "content": "Regula lui l'Hôspital (infinit/infinit). Aplicații. Partea I"
+                    },
+                    {
+                        "number": 105,
+                        "content": "Regula lui l'Hôspital (infinit/infinit). Aplicații. Partea II"
+                    },
+                    {
+                        "number": 106,
+                        "content": "Regula lui l'Hôspital (0 ori infinit)"
+                    },
+                    {
+                        "number": 107,
+                        "content": "Regula lui l'Hôspital (0 la 0; 1 la infinit; infinit la 0)"
+                    },
+                    {
+                        "number": 108,
+                        "content": "Rolul derivatei întâi în studiul funcțiilor (monotonia). Partea I"
+                    },
+                    {
+                        "number": 109,
+                        "content": "Rolul derivatei întâi în studiul funcțiilor (monotonia). Partea II"
+                    },
+                    {
+                        "number": 110,
+                        "content": "Rolul derivatei întâi în studiul funcțiilor (monotonia). Partea III"
+                    },
+                    {
+                        "number": 111,
+                        "content": "Puncte de extrem. Partea I"
+                    },
+                    {
+                        "number": 112,
+                        "content": "Puncte de extrem. Partea II"
+                    },
+                    {
+                        "number": 113,
+                        "content": "Puncte de extrem. Partea III"
+                    },
+                    {
+                        "number": 114,
+                        "content": "Rolul derivatei a doua în studiul funcțiilor (convexitate, concavitate). Partea I"
+                    },
+                    {
+                        "number": 115,
+                        "content": "Rolul derivatei a doua în studiul funcțiilor (concavitate, convexitate). Partea II"
+                    },
+                    {
+                        "number": 116,
+                        "content": "Puncte de inflexiune"
+                    },
+                    {
+                        "number": 117,
+                        "content": "Puncte de inflexiune. Aplicații. Partea I"
+                    },
+                    {
+                        "number": 118,
+                        "content": "Puncte de inflexiune. Aplicații. Partea II"
+                    },
+                    {
+                        "number": 119,
+                        "content": "Reprezentarea grafică a funcțiilor. Partea I"
+                    },
+                    {
+                        "number": 120,
+                        "content": "Reprezentarea grafică a funcțiilor. Partea II"
+                    },
+                    {
+                        "number": 121,
+                        "content": "Reprezentarea grafică a funcțiilor. Partea III"
+                    }
+                ],
+                "weeks_interval": "28-36"
+            }
+        ]
+    }
+}

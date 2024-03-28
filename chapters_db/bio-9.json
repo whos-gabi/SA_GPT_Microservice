@@ -1,0 +1,8 @@
+{
+    "course": {
+        "name": "Biologie",
+        "slug": "bio",
+        "grade": 9,
+        "chapters": []
+    }
+}

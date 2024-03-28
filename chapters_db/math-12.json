@@ -1,0 +1,392 @@
+{
+    "course": {
+      "name": "Matematică",
+      "slug": "math",
+      "grade": 11,
+      "chapters": [
+        {
+            "name": "Grupuri",
+            "topics": [
+              {
+                "number": 1,
+                "content": "Legi de compoziție M2"
+              },
+              {
+                "number": 2,
+                "content": "Parte stabilă. Exemple M2"
+              },
+              {
+                "number": 3,
+                "content": "Comutativitatea legilor de compoziție M2"
+              },
+              {
+                "number": 4,
+                "content": "Asociativitatea legilor de compoziție M2"
+              },
+              {
+                "number": 5,
+                "content": "Elementul neutru al unei legi de compoziție M2"
+              },
+              {
+                "number": 6,
+                "content": "Elemente simetrizabile M2"
+              },
+              {
+                "number": 7,
+                "content": "Legi de compoziție. Aplicații M2"
+              },
+              {
+                "number": 8,
+                "content": "Noțiunea de grup M2"
+              },
+              {
+                "number": 9,
+                "content": "Aplicații la grupuri M2"
+              },
+              {
+                "number": 10,
+                "content": "Grupuri de matrice M2"
+              },
+              {
+                "number": 11,
+                "content": "Grupul matricelor pătratice cu operația de înmulțire M2"
+              },
+              {
+                "number": 12,
+                "content": "Grupul matricelor pătratice cu operația de adunare M2"
+              },
+              {
+                "number": 13,
+                "content": "Grupuri de matrice. Aplicații M2"
+              },
+              {
+                "number": 14,
+                "content": "Clase de resturi modulo n M2"
+              },
+              {
+                "number": 15,
+                "content": "Grupuri de clase de resturi modulo n M2"
+              },
+              {
+                "number": 16,
+                "content": "Reguli de calcul într-un grup. Ridicarea la Putere M2"
+              },
+              {
+                "number": 17,
+                "content": "Legi de simplificare într-un grup M2"
+              },
+              {
+                "number": 18,
+                "content": "Morfism și izomorfism de grupuri M2"
+              },
+              {
+                "number": 19,
+                "content": "Morfism și izomorfism de grupuri. Aplicație M2"
+              },
+              {
+                "number": 20,
+                "content": "Noțiunea de inel M2"
+              },
+              {
+                "number": 21,
+                "content": "Inele numerice M2"
+              },
+              {
+                "number": 22,
+                "content": "Inele de matrice M2"
+              },
+              {
+                "number": 23,
+                "content": "Inelul claselor de resturi modulo n M2"
+              },
+              {
+                "number": 24,
+                "content": "Noțiunea de corp M2"
+              },
+              {
+                "number": 25,
+                "content": "Forma algebrică a unui polinom M2"
+              },
+              {
+                "number": 26,
+                "content": "Valoarea şi rădăcina unui polinom M2"
+              },
+              {
+                "number": 27,
+                "content": "Gradul unui polinom şi egalitatea polinoamelor M2"
+              },
+              {
+                "number": 28,
+                "content": "Adunarea şi înmulțirea polinoamelor M2"
+              },
+              {
+                "number": 29,
+                "content": "Teorema împărțirii cu rest a polinoamelor M2"
+              },
+              {
+                "number": 30,
+                "content": "Schema lui Horner M2"
+              },
+              {
+                "number": 31,
+                "content": "Divizibilitatea polinoamelor. Teorema lui Bezout M2"
+              },
+              {
+                "number": 32,
+                "content": "Aplicaţii ale teoremei lui Bezout M2"
+              },
+              {
+                "number": 33,
+                "content": "Polinoame reductibile şi ireductibile. Descompunerea polinoamelor M2"
+              },
+              {
+                "number": 34,
+                "content": "Aplicaţii la descompunerea polinoamelor. Partea I M2"
+              },
+              {
+                "number": 35,
+                "content": "Aplicaţii la descompunerea polinoamelor. Partea II M2"
+              },
+              {
+                "number": 36,
+                "content": "Relaţiile lui Viète M2"
+              },
+              {
+                "number": 37,
+                "content": "Relaţiile lui Viète. Aplicaţii M2"
+              },
+              {
+                "number": 38,
+                "content": "Rădăcinile polinoamelor cu coeficienţi reali. Partea I M2"
+              },
+              {
+                "number": 39,
+                "content": "Rădăcinile polinoamelor cu coeficienţi reali. Partea II M2"
+              },
+              {
+                "number": 40,
+                "content": "Ecuaţii reciproce de gradul 3 şi 4 M2"
+              }
+            ],
+            "weeks_interval": "1-12"
+          },
+          {
+            "name": "Recapitulare BAC",
+            "topics": [
+              {
+                "number": 41,
+                "content": "Recapitulare BAC (Bacalaureat). Progresii aritmetice"
+              },
+              {
+                "number": 42,
+                "content": "Recapitulare BAC (Bacalaureat). Progresii geometrice"
+              },
+              {
+                "number": 43,
+                "content": "Recapitulare BAC (Bacalaureat). Numere iraționale"
+              },
+              {
+                "number": 44,
+                "content": "Recapitulare BAC (Bacalaureat). Numere complexe"
+              },
+              {
+                "number": 45,
+                "content": "Recapitulare BAC (Bacalaureat). Funcția de gradul întâi"
+              },
+              {
+                "number": 46,
+                "content": "Recapitulare BAC (Bacalaureat). Funcția și ecuația de gradul al doilea"
+              },
+              {
+                "number": 47,
+                "content": "Recapitulare BAC (Bacalaureat). Ecuații iraționale"
+              },
+              {
+                "number": 48,
+                "content": "Recapitulare BAC (Bacalaureat). Logaritmi și ecuații logaritmice"
+              },
+              {
+                "number": 49,
+                "content": "Recapitulare BAC (Bacalaureat). Ecuații exponențiale"
+              },
+              {
+                "number": 50,
+                "content": "Recapitulare BAC (Bacalaureat). Probleme de numărare"
+              },
+              {
+                "number": 51,
+                "content": "Recapitulare BAC (Bacalaureat). Probabilități"
+              },
+              {
+                "number": 52,
+                "content": "Recapitulare BAC (Bacalaureat). Procente, scumpiri, ieftiniri"
+              },
+              {
+                "number": 53,
+                "content": "Recapitulare BAC (Bacalaureat). Distanța dintre două puncte în plan"
+              },
+              {
+                "number": 54,
+                "content": "Recapitulare BAC (Bacalaureat). Ecuația unei drepte. Paralelism și perpendicularitate"
+              },
+              {
+                "number": 55,
+                "content": "Recapitulare BAC (Bacalaureat). Mijlocul unui segment, simetricul unui punct"
+              },
+              {
+                "number": 56,
+                "content": "Recapitulare BAC (Bacalaureat). Vectori"
+              },
+              {
+                "number": 57,
+                "content": "Recapitulare BAC (Bacalaureat). Aplicații ale trigonometriei în geometrie"
+              },
+              {
+                "number": 58,
+                "content": "Recapitulare BAC (Bacalaureat). Funcții trigonometrice"
+              },
+              {
+                "number": 59,
+                "content": "Recapitulare BAC (Bacalaureat). Matrice"
+              },
+              {
+                "number": 60,
+                "content": "Recapitulare BAC (Bacalaureat). Legi de compoziție"
+              }
+            ],
+            "weeks_interval": "13-24"
+          },
+          {
+            "name": "Analiză",
+            "topics": [
+              {
+                "number": 61,
+                "content": "Derivata unei funcții. Formule de derivare. Recapitulare M2M3"
+              },
+              {
+                "number": 62,
+                "content": "Formule de derivare. Funcții trigonometrice. Recapitulare M2M3"
+              },
+              {
+                "number": 63,
+                "content": "Derivarea funcțiilor compuse. Recapitulare M2M3"
+              },
+              {
+                "number": 64,
+                "content": "Probleme care conduc la noțiunea de integrală. Aria de sub un graf M2M3"
+              },
+              {
+                "number": 65,
+                "content": "Primitive ale unei funcții M2M3"
+              },
+              {
+                "number": 66,
+                "content": "Existența primitivelor M2M3"
+              },
+              {
+                "number": 67,
+                "content": "Existența primitivelor unei funcții. Aplicații M2M3"
+              },
+              {
+                "number": 68,
+                "content": "Operații cu funcții care admit primitive M2M3"
+              },
+              {
+                "number": 69,
+                "content": "Primitive uzuale. Partea I M2M3"
+              },
+              {
+                "number": 70,
+                "content": "Primitive uzuale. Partea II M2M3"
+              },
+              {
+                "number": 71,
+                "content": "Primitive uzuale. Partea III M2M3"
+              },
+              {
+                "number": 72,
+                "content": "Primitive uzuale. Aplicații M2M3"
+              },
+              {
+                "number": 73,
+                "content": "Metoda integrării prin părți. Partea I M2M3"
+              },
+              {
+                "number": 74,
+                "content": "Metoda integrării prin părți. Partea II M2M3"
+              },
+              {
+                "number": 75,
+                "content": "Integrala definită. Formula Leibniz-Newton M2M3"
+              },
+              {
+                "number": 76,
+                "content": "Formula Leibniz-Newton. Aplicații. Partea I M2 M3"
+              },
+              {
+                "number": 77,
+                "content": "Formula Leibniz-Newton Aplicații. Partea II M2 M3"
+              },
+              {
+                "number": 78,
+                "content": "Proprietăți ale integralei definite. Partea I M2M3"
+              },
+              {
+                "number": 79,
+                "content": "Proprietăți ale integralei definite. Partea II M2M3"
+              },
+              {
+                "number": 80,
+                "content": "Monotonia integralei definite. Aplicații M2 M3"
+              },
+              {
+                "number": 81,
+                "content": "Integrare prin părți în calculul integralelor definite M2 M3"
+              },
+              {
+                "number": 82,
+                "content": "Integrarea prin schimbare de variabilă. Partea I M2M3"
+              },
+              {
+                "number": 83,
+                "content": "Integrarea prin schimbare de variabilă. Partea II M2M3"
+              },
+              {
+                "number": 84,
+                "content": "Integrarea prin schimbare de variabilă. Partea III M2M3"
+              },
+              {
+                "number": 85,
+                "content": "Integrarea funcțiilor raționale. Partea I M2M3"
+              },
+              {
+                "number": 86,
+                "content": "Integrarea funcțiilor raționale. Partea II M2M3"
+              },
+              {
+                "number": 87,
+                "content": "Integrarea funcțiilor raționale. Metoda descompunerii în fracții simple M2M3"
+              },
+              {
+                "number": 88,
+                "content": "Integrarea funcțiilor continue M2M3"
+              },
+              {
+                "number": 89,
+                "content": "Aplicații ale integralei definite: aria unei suprafețe plane. Partea I M2M3"
+              },
+              {
+                "number": 90,
+                "content": "Aplicații ale integralei definite: aria unei suprafețe plane. Partea II M2M3"
+              },
+              {
+                "number": 91,
+                "content": "Aplicații ale integralei definite. Volumul unui corp de rotație M2M3"
+              }
+            ],
+            "weeks_interval": "25-36"
+          }
+                              
+      ]
+    }
+}
